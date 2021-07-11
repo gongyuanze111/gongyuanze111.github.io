@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gongyuanze111.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-11T11:58:15.096Z</updated>
+    <updated>2021-07-11T15:22:21.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gongyuanze111.github.io"/>
     <link rel="self" href="https://gongyuanze111.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[从零开始的Acwing生活——算法基础篇]]></title>
-        <id>https://gongyuanze111.github.io/post/cong-ling-kai-shi-de-acwing-sheng-huo-suan-fa-ji-chu-pian/</id>
-        <link href="https://gongyuanze111.github.io/post/cong-ling-kai-shi-de-acwing-sheng-huo-suan-fa-ji-chu-pian/">
+        <id>https://gongyuanze111.github.io/post/cong-ling-kai-shi-de-acwing-sheng-huo-suan-fa-ji-chu-pian</id>
+        <link href="https://gongyuanze111.github.io/post/cong-ling-kai-shi-de-acwing-sheng-huo-suan-fa-ji-chu-pian">
         </link>
         <updated>2021-07-11T11:34:23.000Z</updated>
         <content type="html"><![CDATA[<p>111</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gongyuanze111.github.io/post/hello-gridea/</id>
-        <link href="https://gongyuanze111.github.io/post/hello-gridea/">
+        <id>https://gongyuanze111.github.io/post/hello-gridea</id>
+        <link href="https://gongyuanze111.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
